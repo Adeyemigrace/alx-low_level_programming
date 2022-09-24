@@ -1,13 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/**
- * file: main.h
- *
- * desc: File containing all prototypes for all functions
- * used in more pointers, arrays and strings directory.
- */
-
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
